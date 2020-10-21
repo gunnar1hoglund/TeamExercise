@@ -2,18 +2,18 @@ Kopfkino                       Head cinema
 Schnapsidee	               crazy idea				
 Flughafen	               Airport		
 Berlin	                       Berlin	 
-Bratwurst                     a type of sausage			
-Hauptstrasse	              main road		
-Brot				
-Gauss				
-Klimaanlage			
-Rammstein			
-Musik				
-BMW				
-Biergarten			
-Ratskeller			
-Dirndel				
-Lederhose			
-Luftschloss			
-wettbewerbsfaehig		
-Schneewittchen			
+Bratwurst                      a type of sausage			
+Hauptstrasse	               main road		
+Brot			       loaf		
+Gauss			       Gauss	
+Klimaanlage                    air conditioner			
+Rammstein                      Rammstein			
+Musik	                       music			
+BMW			       car brand	
+Biergarten                     Beer garden			
+Ratskeller	               Ratskeller		
+Dirndel			       a type of german dress
+Lederhose		       peasants traditional costume	
+Luftschloss		       Castle in the air	
+wettbewerbsfaehig	       competitive	
+Schneewittchen		       Snow white	
